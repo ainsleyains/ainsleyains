@@ -1,10 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ainsley 
-===================================================================================================================================
+<h1 align="center">Hi !<img alt= 'hi' src='https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif'> I'm Ainsley</h1>
 
-Front-End Developer
---------------------------
+
+<h3 align="center">A passionate frontend developer</h3>
 
 Creative, detail-oriented, front-end developer passionate about developing user-friendly software applications. Excellent problem-solving skills and ability to perform well in a team.
+
+<img align ='right' alt= 'coding' width ='300' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'>
+
+
 
 ### Skills
 
