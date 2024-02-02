@@ -6,7 +6,7 @@
 
 <h3 align="center">An enthusiastic developer specializing in frontend technologies.</h3>
 
-Creative, detail-oriented, front-end developer passionate about developing user-friendly software applications. Excellent problem-solving skills and ability to perform well in a team.
+A detail-oriented and creative front-end developer with a passion for crafting user-friendly software applications. Possesses excellent problem-solving skills and excels in collaborative team environments.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ainsleyains)](https://git.io/streak-stats)   <img align ='right' alt= 'coding' width ='300' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'>
 
