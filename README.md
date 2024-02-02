@@ -8,10 +8,7 @@
 
 Creative, detail-oriented, front-end developer passionate about developing user-friendly software applications. Excellent problem-solving skills and ability to perform well in a team.
 
-<img align="left" '[![GitHub Streak](https://streak-stats.demolab.com/?user=ainsleyains)](https://git.io/streak-stats)'/>
-
-
-<img align ='right' alt= 'coding' width ='300' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ainsleyains)](https://git.io/streak-stats)   <img align ='right' alt= 'coding' width ='300' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'>
 
 
 
