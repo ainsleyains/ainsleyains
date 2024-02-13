@@ -8,6 +8,7 @@
 
 A detail-oriented and creative front-end developer with a passion for crafting user-friendly software applications. Possesses excellent problem-solving skills and excels in collaborative team environments.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ainsleyains&theme=blood)](https://git.io/streak-stats)  <img align ='right' alt= 'coding' width ='300' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif'>
 
 
